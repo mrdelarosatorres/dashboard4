@@ -10,7 +10,7 @@
         private $usuario = 'root';
         private $clave = 'Eu1axBTAmDq6lFEm';
         private $server = 'mysql.poc.svc.cluster.local';
-        private $db = 'sampledb';
+        private $db = 'sample';
 
         # Funcion que permite conectarnos a la base de datos
         public function conectar()
