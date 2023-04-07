@@ -1,0 +1,7 @@
+sampledb
+database-password
+TJIa1D7pKGcn0TkV
+database-root-password
+eWTPWNEmXNbmXmbb
+database-user
+user8VM
